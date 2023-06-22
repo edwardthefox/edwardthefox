@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edwardthefox
-- 👀 I’m interested in God, women, business, real estate investing, and crypto. 
-- 🌱 I’m currently learning how to code web 3 so i can build a social network app.
-- 💞️ I’m looking to collaborate on a social network app.
+- 👀 I’m interested in God, real estate investing, and buying businesses. 
+- 🌱 I’m currently learning how to code so i can build software that solve business problems.
+- 💞️ I’m looking to collaborate on software.
 - 📫 How to reach me foxemergence@gmail.com 
 
 <!---
